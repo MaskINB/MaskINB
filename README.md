@@ -55,9 +55,10 @@
 </table>
 
 
- ---
+ 
 
-<h3 align="left">Languages and Tools:</h3>
+<h2 align="left">Languages and Tools:</h2>
+ ---
 <p align="left">
   <a href="https://angular.io" target="_blank" rel="noreferrer">
     <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>
@@ -100,10 +101,9 @@
   </a>
 </p>
 
-### Github States
 
- ---
-
+<h2 align="left">Github Status:</h2>
+---
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=maskinb&show_icons=true&locale=en&layout=compact" alt="maskinb" />
 </p>
