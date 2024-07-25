@@ -52,7 +52,7 @@
       <img align="center" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" height="30" width="40" />
     </td>
     <td>
-      <a href="induwaranethmal1322@gmail.com" target="blank">E-mail</a>
+      <a href="induwaranethmal1322@gmail.com" target="blank">induwaranethmal1322@gamil.com</a>
     </td>
   </tr>
  
