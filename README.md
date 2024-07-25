@@ -28,8 +28,8 @@
 
  
 
-<h2 align="left">Connect with Me:</h2>
-<hr width="100%" >
+ ### Connect with Me:
+ ---
 <table border="0" align="center" width="400px">
   <tr>
     <td>
@@ -59,9 +59,9 @@
 </table>
 
 
- 
+ ### Languages and Tools:
+ ---
 
-<h2 align="left">Languages and Tools:</h2>
 <p align="left">
   <a href="https://angular.io" target="_blank" rel="noreferrer">
     <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>
@@ -107,10 +107,8 @@
 
 
 
-
-
-<h2 align="left">Github Status:</h2>---
-
+### Github Status:
+ ---
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=maskinb&show_icons=true&locale=en&layout=compact" alt="maskinb" />
 </p>
