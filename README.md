@@ -23,6 +23,7 @@
         <li>🌱 I’m currently learning <b>React & Angular</b></li>
         <li>🧑‍🎓 I’m an Undergraduate at <b>NSBM</b></li>
         <li>📫 How to reach me: <b>induwaranethmal1322@gmail.com</b></li>
+        <li>📫 How to reach me: <b><a href="mailto:induwaranethmal1322@gmail.com">induwaranethmal1322@gmail.com</a></b></li>
         <li>⚡ Fun fact: <b>Call me as Nethu</b></li>
       </ul>
     </td>
