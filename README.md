@@ -10,7 +10,7 @@
  ### About Me:
  ---
 
-<table align="center"  border="0">
+<table align="center"  border="0" width="250">
   <tr>
     <td>
       <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="250px" align="right">
