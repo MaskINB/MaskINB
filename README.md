@@ -7,6 +7,8 @@
 
 - 🌱 I’m currently learning **React & Angular**
 
+- - 🧑‍🎓 I’m an Undergraduate at **NSBM**
+
 - 📫 How to reach me **induwaranethmal1322@gmail.com**
 
 - ⚡ Fun fact **Call me as Nethu**
