@@ -7,7 +7,9 @@
 
 
 
-<h2 align="left">About Me:</h2>
+ ###About Me:
+ ---
+
 <table align="center"  border="0">
   <tr>
     <td>
@@ -58,7 +60,7 @@
 
  
 
-<h2 align="left">Languages and Tools:</h2> ---
+<h2 align="left">Languages and Tools:</h2>
 <p align="left">
   <a href="https://angular.io" target="_blank" rel="noreferrer">
     <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>
