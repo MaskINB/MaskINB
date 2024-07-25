@@ -2,8 +2,10 @@
 <h3 align="center">A passionate frontend developer from Sri Lanka and UI/UX designer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maskinb&label=Profile%20views&color=0e75b6&style=flat" alt="maskinb" /> </p>
+---
 
 - 🌱 I’m currently learning **React & Angular**
+- 🧑‍🎓 I’m an Undergraduate at **NSBM**
 - 📫 How to reach me **induwaranethmal1322@gmail.com**
 - ⚡ Fun fact **Call me as Nethu**
 
