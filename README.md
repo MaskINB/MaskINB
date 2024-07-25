@@ -7,12 +7,22 @@
 
  ---
 
-- 🌱 I’m currently learning **React & Angular**
-- 🧑‍🎓 I’m an Undergraduate at **NSBM**
-- 📫 How to reach me **induwaranethmal1322@gmail.com**
-- ⚡ Fun fact **Call me as Nethu**
+<table>
+  <tr>
+    <td>
+      <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="250px" align="right">
+    </td>
+    <td>
+      <ul>
+        <li>🌱 I’m currently learning <b>React & Angular</b></li>
+        <li>🧑‍🎓 I’m an Undergraduate at <b>NSBM</b></li>
+        <li>📫 How to reach me: <b>induwaranethmal1322@gmail.com</b></li>
+        <li>⚡ Fun fact: <b>Call me as Nethu</b></li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
- <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
