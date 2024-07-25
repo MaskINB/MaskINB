@@ -43,6 +43,15 @@
       <a href="https://fb.com/induwara-nethmal" target="blank">Facebook Profile</a>
     </td>
   </tr>
+   <tr>
+    <td>
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/email.svg" alt="Email" height="30" width="40" />
+    </td>
+    <td>
+      <a href="induwaranethmal1322@gmail.com" target="blank">E-mail</a>
+    </td>
+  </tr>
+ 
 </table>
 
 
