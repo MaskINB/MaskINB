@@ -12,7 +12,7 @@
 - 📫 How to reach me **induwaranethmal1322@gmail.com**
 - ⚡ Fun fact **Call me as Nethu**
 
-  <img src="https://komarev.com/ghpvc/?username=7oSkaaa&label=Profile%20views&color=0047AB&style=plastic?" alt="7oSkaaa" height=25px, width=160px/> 
+ <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
