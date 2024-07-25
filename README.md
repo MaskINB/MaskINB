@@ -4,7 +4,7 @@
 <h3 align="center">A passionate frontend developer from Sri Lanka and UI/UX designer</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=maskinb&label=Profile%20views&color=0e75b6&style=flat" alt="maskinb"  width="150"/> </p>
-<p align="center"> <img src="https://img.shields.io/badge/Languages-Sinhala%20English%20German-Sinhala?style=flat&labelColor=gray&color=blue" alt="maskinb"  width="150"/> </p>
+<p align="right"> <img src="https://img.shields.io/badge/Languages-Sinhala%20English%20German-Sinhala?style=flat&labelColor=gray&color=blue" alt="maskinb"  width="200"/> </p>
 
 
  ### About Me:
