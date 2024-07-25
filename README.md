@@ -3,8 +3,11 @@
 <h3 align="center">Passionate IT Student | Exploring the Boundless World of Technology</h3>
 <h3 align="center">A passionate frontend developer from Sri Lanka and UI/UX designer</h3>
 
-<p> <img src="https://komarev.com/ghpvc/?username=maskinb&label=Profile%20views&color=0e75b6&style=flat" alt="maskinb"  width="150"/> </p>
-<p > <img src="https://img.shields.io/badge/Languages-Sinhala%20English%20German-Sinhala?style=flat&labelColor=gray&color=blue" alt="maskinb"  width="300"/> </p>
+<p>
+  <img src="https://komarev.com/ghpvc/?username=maskinb&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" width="150" />
+  <img src="https://img.shields.io/badge/Languages-Sinhala%20English%20German-Sinhala?style=flat&labelColor=gray&color=blue" alt="Languages" width="300" />
+</p>
+
 
 
  ### About Me:
