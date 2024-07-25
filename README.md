@@ -17,15 +17,15 @@
 <table align="center"  border="0" width="500px">
   <tr>
     <td>
-      <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="250px" align="right">
-    </td>
-    <td>
       <ul>
         <li>🌱 I’m currently learning <b>React & Angular</b></li>
         <li>🧑‍🎓 I’m an Undergraduate at <b>NSBM</b></li>
         <li>📫 How to reach me: <b><a href="mailto:induwaranethmal1322@gmail.com">induwaranethmal1322@gmail.com</a></b></li>
         <li>⚡ Fun fact: <b>Call me as Nethu</b></li>
       </ul>
+    </td>
+     <td>
+      <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="250px" align="right">
     </td>
   </tr>
 </table>
