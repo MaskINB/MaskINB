@@ -5,8 +5,9 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=maskinb&label=Profile%20views&color=0e75b6&style=flat" alt="maskinb"  width="200"/> </p>
 
- ---
 
+
+<h2 align="left">About Me:</h2>
 <table align="center"  border="0">
   <tr>
     <td>
@@ -23,7 +24,7 @@
   </tr>
 </table>
 
- ---
+ 
 
 <h2 align="left">Connect with Me:</h2>
 <table border="0" align="center" width="400px">
@@ -55,9 +56,9 @@
 </table>
 
 
-  ---
+ 
 
-<h2 align="left">Languages and Tools:</h2>
+<h2 align="left">Languages and Tools:</h2> ---
 <p align="left">
   <a href="https://angular.io" target="_blank" rel="noreferrer">
     <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>
@@ -102,10 +103,10 @@
 
 
 
----
 
 
-<h2 align="left">Github Status:</h2>
+
+<h2 align="left">Github Status:</h2>---
 
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=maskinb&show_icons=true&locale=en&layout=compact" alt="maskinb" />
