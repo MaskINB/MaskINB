@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React & Angular**
 
-- - 🧑‍🎓 I’m an Undergraduate at **NSBM**
+-  🧑‍🎓 I’m an Undergraduate at **NSBM**
 
 - 📫 How to reach me **induwaranethmal1322@gmail.com**
 
