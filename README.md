@@ -111,7 +111,7 @@
       alt="postgresql"/> 
     <img src="https://img.shields.io/badge/mongodb-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white"
       alt="mongodb"/> 
-    <img src="https://img.shields.io/badge/-MySQL-F29111?style=flat-square&logo=MySQL&logoColor=white" alt="Mysql"  width="40" height="30"/>
+    <img src="https://img.shields.io/badge/-MySQL-F29111?style=flat-square&logo=MySQL&logoColor=white" alt="Mysql"  width="60" height="26"/>
 </p>
 
 <h3 align="center">Cloud & Hosting:</h3>
