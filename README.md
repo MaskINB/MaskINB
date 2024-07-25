@@ -7,7 +7,7 @@
 
  ---
 
-<table align="center">
+<table align="center"  border="0">
   <tr>
     <td>
       <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="350px" align="right">
