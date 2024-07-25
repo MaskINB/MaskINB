@@ -7,7 +7,7 @@
 
 
 
- ###About Me:
+ ### About Me:
  ---
 
 <table align="center"  border="0">
@@ -29,6 +29,7 @@
  
 
 <h2 align="left">Connect with Me:</h2>
+<hr width="100%" >
 <table border="0" align="center" width="400px">
   <tr>
     <td>
