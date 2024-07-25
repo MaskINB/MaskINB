@@ -10,7 +10,7 @@
 <table align="center"  border="0">
   <tr>
     <td>
-      <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="350px" align="right">
+      <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="250px" align="right">
     </td>
     <td>
       <ul>
@@ -25,7 +25,7 @@
 
  ---
 
-
+<h2 align="left">Connect with Me:</h2>
 <table border="0" align="center" width="400px">
   <tr>
     <td>
@@ -55,10 +55,9 @@
 </table>
 
 
- 
+  ---
 
 <h2 align="left">Languages and Tools:</h2>
- ---
 <p align="left">
   <a href="https://angular.io" target="_blank" rel="noreferrer">
     <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>
@@ -102,8 +101,12 @@
 </p>
 
 
-<h2 align="left">Github Status:</h2>
+
 ---
+
+
+<h2 align="left">Github Status:</h2>
+
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=maskinb&show_icons=true&locale=en&layout=compact" alt="maskinb" />
 </p>
