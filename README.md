@@ -3,7 +3,7 @@
 <h3 align="center">Passionate IT Student | Exploring the Boundless World of Technology</h3>
 <h3 align="center">A passionate frontend developer from Sri Lanka and UI/UX designer</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=maskinb&label=Profile%20views&color=0e75b6&style=flat" alt="maskinb"  width="500"/> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=maskinb&label=Profile%20views&color=0e75b6&style=flat" alt="maskinb"  width="200"/> </p>
 
  ---
 
@@ -11,6 +11,8 @@
 - 🧑‍🎓 I’m an Undergraduate at **NSBM**
 - 📫 How to reach me **induwaranethmal1322@gmail.com**
 - ⚡ Fun fact **Call me as Nethu**
+
+  <img src="https://komarev.com/ghpvc/?username=7oSkaaa&label=Profile%20views&color=0047AB&style=plastic?" alt="7oSkaaa" height=25px, width=160px/> 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
