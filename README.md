@@ -18,10 +18,9 @@
   <tr>
     <td>
       <ul>
-        <li>🌱 I’m currently learning <b>React & Angular</b></li>
+        <li>🌱 I’m currently learning <b> Front-end Technologies </b></li>
         <li>🧑‍🎓 I’m an Undergraduate at <b>NSBM</b></li>
         <li>📫 How to reach me: <b><a href="mailto:induwaranethmal1322@gmail.com">induwaranethmal1322@gmail.com</a></b></li>
-        <li>⚡ Fun fact: <b>Call me as Nethu</b></li>
       </ul>
     </td>
      <td>
@@ -96,29 +95,9 @@
   </a>
 </p>
 
-<h3 align="center">Backend</h3>
-<p align="center">
-    <img src="https://img.shields.io/badge/node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white"
-      alt="nodejs"/> 
-  </a>
-    <img src="https://img.shields.io/badge/spring%20boot-6DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white" alt="spring Boot" /> 
-  </a>
-  </a> 
-</p>
-
 <h3 align="center">Database</h3>
 <p align="center">
-    <img src="https://img.shields.io/badge/postgreSQL-4169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white"
-      alt="postgresql"/> 
-    <img src="https://img.shields.io/badge/mongodb-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white"
-      alt="mongodb"/> 
     <img src="https://img.shields.io/badge/-MySQL-F29111?style=flat-square&logo=MySQL&logoColor=white" alt="Mysql"  width="95" height="28"/>
-</p>
-
-<h3 align="center">Cloud & Hosting:</h3>
-<p align="center">
-    <img  src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="azure"/> 
-  </a>
 </p>
 
 <h3 align="center">Version Control & CI/CD</h3>
@@ -128,8 +107,6 @@
   </a>
     <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="github" />
   </a>
-    <img src="https://img.shields.io/badge/gitlab-181717.svg?style=for-the-badge&logo=gitlab&logoColor=white"
-      alt="git"/>
 </p>
 
 <h3 align="center">Preferred IDEs  & Tools :</h3>
